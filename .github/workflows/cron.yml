@@ -1,0 +1,50 @@
+name: ZeroHumanEngine — autonomous run
+
+on:
+  schedule:
+    # Twice daily, indefinitely (05:10 and 17:10 UTC). GitHub keeps scheduled
+    # workflows alive as long as the repo has activity; the engine's own
+    # commits satisfy that, making the loop self-sustaining.
+    - cron: "10 5,17 * * *"
+  workflow_dispatch: {}   # allow manual trigger
+
+permissions:
+  contents: write       # state commits + gh-pages push
+  pages: write          # GitHub Pages deployment
+  id-token: write
+
+concurrency:
+  group: engine
+  cancel-in-progress: false
+
+jobs:
+  run-engine:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run engine (fetch, generate site, self-correct, mutate state)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          AMAZON_TAG: ${{ secrets.AMAZON_TAG }}
+          SITE_URL: https://bdthorndike-create.github.io/trenddigest
+        run: python3 main.py
+
+      - name: Commit mutated state back (keeps the loop + repo alive)
+        run: |
+          git config user.name "zerohumanengine-bot"
+          git config user.email "actions@github.com"
+          git add state/ || true
+          git diff --cached --quiet || git commit -m "chore: autonomous state update $(date -u +%F)"
+          git push origin HEAD:${{ github.ref_name || 'main' }} || echo "state push skipped (API commit already persisted it)"
+
+      - name: Deploy site to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
+          force_orphan: false
+          commit_message: "deploy: autonomous site update ${{ github.run_number }}"

@@ -1,0 +1,399 @@
+{
+  "topics": {
+    "artificial intelligence": {
+      "weight": 1.0,
+      "views": 0,
+      "stories": 0
+    },
+    "python": {
+      "weight": 1.0,
+      "views": 0,
+      "stories": 0
+    },
+    "rust": {
+      "weight": 1.0,
+      "views": 0,
+      "stories": 0
+    },
+    "kubernetes": {
+      "weight": 1.0,
+      "views": 0,
+      "stories": 0
+    },
+    "cybersecurity": {
+      "weight": 1.0,
+      "views": 0,
+      "stories": 0
+    },
+    "databases": {
+      "weight": 1.0,
+      "views": 0,
+      "stories": 0
+    },
+    "web development": {
+      "weight": 1.0,
+      "views": 0,
+      "stories": 0
+    },
+    "linux": {
+      "weight": 1.0,
+      "views": 0,
+      "stories": 0
+    },
+    "devtools": {
+      "weight": 1.0,
+      "views": 0,
+      "stories": 0
+    },
+    "startups": {
+      "weight": 1.0,
+      "views": 0,
+      "stories": 0
+    }
+  },
+  "generation": 2,
+  "posted_stories": {
+    "21530860": {
+      "topic": "artificial intelligence",
+      "points_then": 1574,
+      "checked": true
+    },
+    "48387270": {
+      "topic": "artificial intelligence",
+      "points_then": 800,
+      "checked": true
+    },
+    "21953593": {
+      "topic": "artificial intelligence",
+      "points_then": 595,
+      "checked": true
+    },
+    "41295923": {
+      "topic": "artificial intelligence",
+      "points_then": 568,
+      "checked": true
+    },
+    "18219444": {
+      "topic": "artificial intelligence",
+      "points_then": 560,
+      "checked": true
+    },
+    "12667761": {
+      "topic": "artificial intelligence",
+      "points_then": 540,
+      "checked": true
+    },
+    "17040368": {
+      "topic": "artificial intelligence",
+      "points_then": 502,
+      "checked": true
+    },
+    "28394834": {
+      "topic": "artificial intelligence",
+      "points_then": 439,
+      "checked": true
+    },
+    "45751400": {
+      "topic": "python",
+      "points_then": 2214,
+      "checked": true
+    },
+    "20915746": {
+      "topic": "python",
+      "points_then": 1616,
+      "checked": true
+    },
+    "13319904": {
+      "topic": "python",
+      "points_then": 1411,
+      "checked": true
+    },
+    "27593772": {
+      "topic": "python",
+      "points_then": 1208,
+      "checked": true
+    },
+    "38923741": {
+      "topic": "python",
+      "points_then": 1081,
+      "checked": true
+    },
+    "43820228": {
+      "topic": "python",
+      "points_then": 983,
+      "checked": true
+    },
+    "28300951": {
+      "topic": "python",
+      "points_then": 982,
+      "checked": true
+    },
+    "15787023": {
+      "topic": "python",
+      "points_then": 937
+    },
+    "22238335": {
+      "topic": "rust",
+      "points_then": 1582
+    },
+    "40172033": {
+      "topic": "rust",
+      "points_then": 1484
+    },
+    "25610741": {
+      "topic": "rust",
+      "points_then": 1444
+    },
+    "9551937": {
+      "topic": "rust",
+      "points_then": 1363
+    },
+    "19583384": {
+      "topic": "rust",
+      "points_then": 1340
+    },
+    "18696291": {
+      "topic": "rust",
+      "points_then": 1323
+    },
+    "47120899": {
+      "topic": "rust",
+      "points_then": 1274
+    },
+    "22075076": {
+      "topic": "rust",
+      "points_then": 1243
+    },
+    "18428497": {
+      "topic": "kubernetes",
+      "points_then": 779
+    },
+    "23460066": {
+      "topic": "kubernetes",
+      "points_then": 778
+    },
+    "23354418": {
+      "topic": "kubernetes",
+      "points_then": 755
+    },
+    "22491170": {
+      "topic": "kubernetes",
+      "points_then": 719
+    },
+    "22485625": {
+      "topic": "kubernetes",
+      "points_then": 665
+    },
+    "18111665": {
+      "topic": "kubernetes",
+      "points_then": 652
+    },
+    "28050750": {
+      "topic": "kubernetes",
+      "points_then": 635
+    },
+    "14452819": {
+      "topic": "kubernetes",
+      "points_then": 612
+    },
+    "15195510": {
+      "topic": "cybersecurity",
+      "points_then": 1044
+    },
+    "32562815": {
+      "topic": "cybersecurity",
+      "points_then": 1005
+    },
+    "21241712": {
+      "topic": "cybersecurity",
+      "points_then": 661
+    },
+    "43535953": {
+      "topic": "cybersecurity",
+      "points_then": 638
+    },
+    "40397637": {
+      "topic": "cybersecurity",
+      "points_then": 593
+    },
+    "48478969": {
+      "topic": "cybersecurity",
+      "points_then": 589
+    },
+    "47769089": {
+      "topic": "cybersecurity",
+      "points_then": 562
+    },
+    "29333694": {
+      "topic": "cybersecurity",
+      "points_then": 538
+    },
+    "27016630": {
+      "topic": "databases",
+      "points_then": 1812
+    },
+    "13537052": {
+      "topic": "databases",
+      "points_then": 1162
+    },
+    "13644959": {
+      "topic": "databases",
+      "points_then": 1068
+    },
+    "22942278": {
+      "topic": "databases",
+      "points_then": 1011
+    },
+    "26580614": {
+      "topic": "databases",
+      "points_then": 986
+    },
+    "18904648": {
+      "topic": "databases",
+      "points_then": 970
+    },
+    "21258127": {
+      "topic": "databases",
+      "points_then": 927
+    },
+    "33833836": {
+      "topic": "databases",
+      "points_then": 865
+    },
+    "20637849": {
+      "topic": "web development",
+      "points_then": 819
+    },
+    "28539247": {
+      "topic": "web development",
+      "points_then": 681
+    },
+    "6467379": {
+      "topic": "web development",
+      "points_then": 611
+    },
+    "3880213": {
+      "topic": "web development",
+      "points_then": 605
+    },
+    "3206540": {
+      "topic": "web development",
+      "points_then": 589
+    },
+    "46488576": {
+      "topic": "web development",
+      "points_then": 487
+    },
+    "5514284": {
+      "topic": "web development",
+      "points_then": 474
+    },
+    "6418469": {
+      "topic": "web development",
+      "points_then": 450
+    },
+    "21871026": {
+      "topic": "linux",
+      "points_then": 2595
+    },
+    "26889677": {
+      "topic": "linux",
+      "points_then": 1883
+    },
+    "46795864": {
+      "topic": "linux",
+      "points_then": 1871
+    },
+    "2555349": {
+      "topic": "linux",
+      "points_then": 1820
+    },
+    "44031385": {
+      "topic": "linux",
+      "points_then": 1613
+    },
+    "13932226": {
+      "topic": "linux",
+      "points_then": 1423
+    },
+    "47697870": {
+      "topic": "linux",
+      "points_then": 1378
+    },
+    "35557848": {
+      "topic": "linux",
+      "points_then": 1378
+    },
+    "24074588": {
+      "topic": "devtools",
+      "points_then": 1062
+    },
+    "38012032": {
+      "topic": "devtools",
+      "points_then": 811
+    },
+    "23454557": {
+      "topic": "devtools",
+      "points_then": 762
+    },
+    "49156111": {
+      "topic": "devtools",
+      "points_then": 733
+    },
+    "35235732": {
+      "topic": "devtools",
+      "points_then": 645
+    },
+    "5393864": {
+      "topic": "devtools",
+      "points_then": 612
+    },
+    "47390817": {
+      "topic": "devtools",
+      "points_then": 604
+    },
+    "12819482": {
+      "topic": "devtools",
+      "points_then": 530
+    },
+    "47865868": {
+      "topic": "startups",
+      "points_then": 2320
+    },
+    "42806247": {
+      "topic": "startups",
+      "points_then": 2246
+    },
+    "3491542": {
+      "topic": "startups",
+      "points_then": 2060
+    },
+    "25802366": {
+      "topic": "startups",
+      "points_then": 1714
+    },
+    "26737771": {
+      "topic": "startups",
+      "points_then": 1330
+    },
+    "27782604": {
+      "topic": "startups",
+      "points_then": 1328
+    },
+    "12379518": {
+      "topic": "startups",
+      "points_then": 1311
+    },
+    "20254057": {
+      "topic": "startups",
+      "points_then": 1251
+    }
+  },
+  "history": [
+    {
+      "date": "2026-11-01",
+      "topics": 10,
+      "top_topic": "artificial intelligence"
+    }
+  ]
+}
