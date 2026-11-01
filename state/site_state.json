@@ -51,7 +51,7 @@
       "stories": 0
     }
   },
-  "generation": 2,
+  "generation": 3,
   "posted_stories": {
     "21530860": {
       "topic": "artificial intelligence",
@@ -387,9 +387,294 @@
     "20254057": {
       "topic": "startups",
       "points_then": 1251
+    },
+    "9386004": {
+      "topic": "artificial intelligence",
+      "points_then": 430
+    },
+    "15155609": {
+      "topic": "artificial intelligence",
+      "points_then": 389
+    },
+    "34637650": {
+      "topic": "artificial intelligence",
+      "points_then": 378
+    },
+    "49040741": {
+      "topic": "artificial intelligence",
+      "points_then": 374
+    },
+    "7127938": {
+      "topic": "artificial intelligence",
+      "points_then": 352
+    },
+    "43318624": {
+      "topic": "artificial intelligence",
+      "points_then": 352
+    },
+    "49275385": {
+      "topic": "artificial intelligence",
+      "points_then": 343
+    },
+    "48100433": {
+      "topic": "python",
+      "points_then": 919
+    },
+    "43918484": {
+      "topic": "python",
+      "points_then": 916
+    },
+    "20672051": {
+      "topic": "python",
+      "points_then": 879
+    },
+    "41104305": {
+      "topic": "python",
+      "points_then": 867
+    },
+    "29104047": {
+      "topic": "python",
+      "points_then": 864
+    },
+    "37222191": {
+      "topic": "python",
+      "points_then": 858
+    },
+    "28880782": {
+      "topic": "python",
+      "points_then": 841
+    },
+    "28513130": {
+      "topic": "rust",
+      "points_then": 1193
+    },
+    "13338592": {
+      "topic": "rust",
+      "points_then": 1170
+    },
+    "28203654": {
+      "topic": "rust",
+      "points_then": 1138
+    },
+    "26194990": {
+      "topic": "rust",
+      "points_then": 1113
+    },
+    "21473259": {
+      "topic": "rust",
+      "points_then": 1102
+    },
+    "49724881": {
+      "topic": "rust",
+      "points_then": 970
+    },
+    "46213585": {
+      "topic": "rust",
+      "points_then": 962
+    },
+    "27903720": {
+      "topic": "kubernetes",
+      "points_then": 589
+    },
+    "26271470": {
+      "topic": "kubernetes",
+      "points_then": 573
+    },
+    "23211325": {
+      "topic": "kubernetes",
+      "points_then": 549
+    },
+    "28875764": {
+      "topic": "kubernetes",
+      "points_then": 547
+    },
+    "26106080": {
+      "topic": "kubernetes",
+      "points_then": 545
+    },
+    "31974420": {
+      "topic": "kubernetes",
+      "points_then": 542
+    },
+    "21021184": {
+      "topic": "kubernetes",
+      "points_then": 540
+    },
+    "18459016": {
+      "topic": "cybersecurity",
+      "points_then": 481
+    },
+    "14791255": {
+      "topic": "cybersecurity",
+      "points_then": 455
+    },
+    "46812173": {
+      "topic": "cybersecurity",
+      "points_then": 435
+    },
+    "45824658": {
+      "topic": "cybersecurity",
+      "points_then": 399
+    },
+    "17770135": {
+      "topic": "cybersecurity",
+      "points_then": 374
+    },
+    "45226903": {
+      "topic": "cybersecurity",
+      "points_then": 371
+    },
+    "45174221": {
+      "topic": "cybersecurity",
+      "points_then": 347
+    },
+    "47911524": {
+      "topic": "databases",
+      "points_then": 860
+    },
+    "44288937": {
+      "topic": "databases",
+      "points_then": 849
+    },
+    "44502318": {
+      "topic": "databases",
+      "points_then": 848
+    },
+    "22296659": {
+      "topic": "databases",
+      "points_then": 847
+    },
+    "23957510": {
+      "topic": "databases",
+      "points_then": 841
+    },
+    "30018197": {
+      "topic": "databases",
+      "points_then": 841
+    },
+    "20150688": {
+      "topic": "databases",
+      "points_then": 825
+    },
+    "34857435": {
+      "topic": "web development",
+      "points_then": 428
+    },
+    "13634363": {
+      "topic": "web development",
+      "points_then": 412
+    },
+    "5206211": {
+      "topic": "web development",
+      "points_then": 383
+    },
+    "7501516": {
+      "topic": "web development",
+      "points_then": 368
+    },
+    "15902811": {
+      "topic": "web development",
+      "points_then": 362
+    },
+    "21281042": {
+      "topic": "web development",
+      "points_then": 355
+    },
+    "31299716": {
+      "topic": "web development",
+      "points_then": 354
+    },
+    "11241430": {
+      "topic": "linux",
+      "points_then": 1344
+    },
+    "47507150": {
+      "topic": "linux",
+      "points_then": 1306
+    },
+    "28978086": {
+      "topic": "linux",
+      "points_then": 1292
+    },
+    "23229241": {
+      "topic": "linux",
+      "points_then": 1239
+    },
+    "12313179": {
+      "topic": "linux",
+      "points_then": 1217
+    },
+    "46457770": {
+      "topic": "linux",
+      "points_then": 1194
+    },
+    "26197280": {
+      "topic": "linux",
+      "points_then": 1185
+    },
+    "4614546": {
+      "topic": "devtools",
+      "points_then": 514
+    },
+    "36148807": {
+      "topic": "devtools",
+      "points_then": 505
+    },
+    "5325445": {
+      "topic": "devtools",
+      "points_then": 470
+    },
+    "42347917": {
+      "topic": "devtools",
+      "points_then": 468
+    },
+    "25217291": {
+      "topic": "devtools",
+      "points_then": 459
+    },
+    "14751741": {
+      "topic": "devtools",
+      "points_then": 430
+    },
+    "14535505": {
+      "topic": "devtools",
+      "points_then": 407
+    },
+    "13656192": {
+      "topic": "startups",
+      "points_then": 1237
+    },
+    "10514729": {
+      "topic": "startups",
+      "points_then": 1202
+    },
+    "17286939": {
+      "topic": "startups",
+      "points_then": 1139
+    },
+    "23929044": {
+      "topic": "startups",
+      "points_then": 1125
+    },
+    "7933155": {
+      "topic": "startups",
+      "points_then": 1084
+    },
+    "49023016": {
+      "topic": "startups",
+      "points_then": 1069
+    },
+    "3686840": {
+      "topic": "startups",
+      "points_then": 1032
     }
   },
   "history": [
+    {
+      "date": "2026-11-01",
+      "topics": 10,
+      "top_topic": "artificial intelligence"
+    },
     {
       "date": "2026-11-01",
       "topics": 10,
