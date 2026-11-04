@@ -51,7 +51,7 @@
       "stories": 0
     }
   },
-  "generation": 8,
+  "generation": 9,
   "posted_stories": {
     "21530860": {
       "topic": "artificial intelligence",
@@ -667,6 +667,38 @@
     "3686840": {
       "topic": "startups",
       "points_then": 1032
+    },
+    "50288019": {
+      "topic": "artificial intelligence",
+      "points_then": 338
+    },
+    "16469167": {
+      "topic": "artificial intelligence",
+      "points_then": 267
+    },
+    "12683902": {
+      "topic": "artificial intelligence",
+      "points_then": 260
+    },
+    "15850254": {
+      "topic": "artificial intelligence",
+      "points_then": 254
+    },
+    "10928020": {
+      "topic": "artificial intelligence",
+      "points_then": 247
+    },
+    "16226495": {
+      "topic": "artificial intelligence",
+      "points_then": 226
+    },
+    "37252025": {
+      "topic": "artificial intelligence",
+      "points_then": 215
+    },
+    "37344993": {
+      "topic": "artificial intelligence",
+      "points_then": 213
     }
   },
   "history": [
@@ -702,6 +734,11 @@
     },
     {
       "date": "2026-11-03",
+      "topics": 10,
+      "top_topic": "artificial intelligence"
+    },
+    {
+      "date": "2026-11-04",
       "topics": 10,
       "top_topic": "artificial intelligence"
     }
