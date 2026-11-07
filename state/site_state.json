@@ -51,7 +51,7 @@
       "stories": 0
     }
   },
-  "generation": 15,
+  "generation": 16,
   "posted_stories": {
     "21530860": {
       "topic": "artificial intelligence",
@@ -699,6 +699,18 @@
     "37344993": {
       "topic": "artificial intelligence",
       "points_then": 213
+    },
+    "21979391": {
+      "topic": "artificial intelligence",
+      "points_then": 294
+    },
+    "25530178": {
+      "topic": "artificial intelligence",
+      "points_then": 278
+    },
+    "13737426": {
+      "topic": "artificial intelligence",
+      "points_then": 269
     }
   },
   "history": [
@@ -764,6 +776,11 @@
     },
     {
       "date": "2026-11-06",
+      "topics": 10,
+      "top_topic": "artificial intelligence"
+    },
+    {
+      "date": "2026-11-07",
       "topics": 10,
       "top_topic": "artificial intelligence"
     },
