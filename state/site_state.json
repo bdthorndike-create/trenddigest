@@ -51,7 +51,7 @@
       "stories": 0
     }
   },
-  "generation": 23,
+  "generation": 24,
   "posted_stories": {
     "21530860": {
       "topic": "artificial intelligence",
@@ -816,6 +816,11 @@
     },
     {
       "date": "2026-11-10",
+      "topics": 10,
+      "top_topic": "artificial intelligence"
+    },
+    {
+      "date": "2026-11-11",
       "topics": 10,
       "top_topic": "artificial intelligence"
     },
