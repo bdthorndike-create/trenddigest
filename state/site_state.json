@@ -51,7 +51,7 @@
       "stories": 0
     }
   },
-  "generation": 24,
+  "generation": 25,
   "posted_stories": {
     "21530860": {
       "topic": "artificial intelligence",
@@ -711,6 +711,62 @@
     "13737426": {
       "topic": "artificial intelligence",
       "points_then": 269
+    },
+    "24893247": {
+      "topic": "web development",
+      "points_then": 311
+    },
+    "17684451": {
+      "topic": "web development",
+      "points_then": 305
+    },
+    "19907732": {
+      "topic": "web development",
+      "points_then": 301
+    },
+    "24374979": {
+      "topic": "web development",
+      "points_then": 298
+    },
+    "7767765": {
+      "topic": "web development",
+      "points_then": 294
+    },
+    "5944207": {
+      "topic": "web development",
+      "points_then": 294
+    },
+    "13611220": {
+      "topic": "web development",
+      "points_then": 290
+    },
+    "41866802": {
+      "topic": "devtools",
+      "points_then": 407
+    },
+    "20710509": {
+      "topic": "devtools",
+      "points_then": 321
+    },
+    "19934613": {
+      "topic": "devtools",
+      "points_then": 320
+    },
+    "13219980": {
+      "topic": "devtools",
+      "points_then": 300
+    },
+    "10416062": {
+      "topic": "devtools",
+      "points_then": 293
+    },
+    "41406799": {
+      "topic": "devtools",
+      "points_then": 288
+    },
+    "36478528": {
+      "topic": "devtools",
+      "points_then": 237
     }
   },
   "history": [
@@ -826,6 +882,11 @@
     },
     {
       "date": "2026-11-11",
+      "topics": 10,
+      "top_topic": "artificial intelligence"
+    },
+    {
+      "date": "2026-11-12",
       "topics": 10,
       "top_topic": "artificial intelligence"
     }
