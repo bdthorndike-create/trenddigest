@@ -51,7 +51,7 @@
       "stories": 0
     }
   },
-  "generation": 30,
+  "generation": 31,
   "posted_stories": {
     "21530860": {
       "topic": "artificial intelligence",
@@ -767,6 +767,10 @@
     "36478528": {
       "topic": "devtools",
       "points_then": 237
+    },
+    "50493251": {
+      "topic": "startups",
+      "points_then": 1062
     }
   },
   "history": [
@@ -912,6 +916,11 @@
     },
     {
       "date": "2026-11-14",
+      "topics": 10,
+      "top_topic": "artificial intelligence"
+    },
+    {
+      "date": "2026-11-15",
       "topics": 10,
       "top_topic": "artificial intelligence"
     }
